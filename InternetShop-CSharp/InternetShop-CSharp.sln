@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternetShop-CSharp", "InternetShop-CSharp.csproj", "{F1C7BCD0-43DA-4655-8D71-2235A054DDEC}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8258E5E3-E671-44C3-8F71-48CC4F0FA0AB} = {8258E5E3-E671-44C3-8F71-48CC4F0FA0AB}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookFilesAndFolders", "LookFilesAndFolders\LookFilesAndFolders.csproj", "{8258E5E3-E671-44C3-8F71-48CC4F0FA0AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C7BCD0-43DA-4655-8D71-2235A054DDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C7BCD0-43DA-4655-8D71-2235A054DDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C7BCD0-43DA-4655-8D71-2235A054DDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C7BCD0-43DA-4655-8D71-2235A054DDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8258E5E3-E671-44C3-8F71-48CC4F0FA0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8258E5E3-E671-44C3-8F71-48CC4F0FA0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8258E5E3-E671-44C3-8F71-48CC4F0FA0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8258E5E3-E671-44C3-8F71-48CC4F0FA0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
